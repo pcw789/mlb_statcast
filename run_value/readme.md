@@ -18,4 +18,4 @@
 
 
 ## Link
-* [Run Value](https://github.com/pcw789/mlb_statcast/blob/main/run_value.ipynb)
+* [Run Value](https://github.com/pcw789/mlb_statcast/blob/main/run_value/run_value.ipynb)
