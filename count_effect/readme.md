@@ -20,5 +20,5 @@
  
 
 ## Link
-* [Count Effect](https://github.com/pcw789/mlb_statcast/blob/main/run_value.ipynb)
+* [Count Effect](https://github.com/pcw789/mlb_statcast/blob/main/count_effect/count_effect.ipynb)
 
